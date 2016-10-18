@@ -51,7 +51,7 @@ char *ch3[] = {
 		"Lesson T7	w y v backspace",
 		"Lesson T8	1 2 3 4 5 6 7 8 9 0 ( )",
 		"Lesson T9	\' \" ! = * + > < ^",
-		"Lesson T10	@ # $ % &"
+		"Lesson T10	@ # $ \% &"
 	      };
 int n_ch3 = sizeof(ch3) / sizeof(char *);
 char *ch4[] = {
