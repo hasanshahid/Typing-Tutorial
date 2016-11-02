@@ -1,3 +1,5 @@
+Name:Hasan Mohammad Shahid
+MIS:111503026
 # Typing-Tutorial
 Typing tutor is a program to increase the typing speed.Different series are included in the program to develop 
 typing skills.User has to select an option from the MAIN MENU which leads to selection of an option from SUB MENU.
